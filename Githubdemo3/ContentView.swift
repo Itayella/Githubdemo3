@@ -14,9 +14,9 @@ struct ContentView: View {
         VStack {
             
             
-            Image(systemName: "globe")
+            Image(systemName: "phone")
                 .imageScale(.large)
-                .foregroundColor(.accentColor)
+                .foregroundColor(.red)
             Text("This is a github test yeay!! we can go on and on in this text box, but no idea how to adjust anything else")
         }
         .padding()
